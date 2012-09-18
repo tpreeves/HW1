@@ -1,0 +1,14 @@
+.listfont	{
+	font-family: Segoe UI;
+}
+.center		{
+	right: auto;
+	left: auto;
+	width:400px;
+}
+#border	{
+	border-width: thin;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
