@@ -6,9 +6,9 @@
 	left: auto;
 	width:400px;
 }
-#border	{
-	border-width: thin;
+.centerdivindex	{
+	width: 450px;
 	margin-right: auto;
 	margin-left: auto;
-	
+	padding: 15px;
 }
