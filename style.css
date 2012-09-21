@@ -5,16 +5,23 @@
 	right: auto;
 	left: auto;
 	width:400px;
+	
 }
 .centerdivindex	{
-	width: 425px;
+	width: 775px;
 	margin-right: auto;
 	margin-left: auto;
 	padding: 15px;
+	background-color: white;
 }
 .centerdivresume	{
-	width: 600px;
+	width: 775px;
 	margin-right: auto;
 	margin-left: auto;
 	padding: 15px;
+	background-color: white;
+}
+
+.backgroundcolor	{
+	background-color: #000033
 }
